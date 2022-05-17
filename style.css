@@ -1,0 +1,124 @@
+body{
+    background-image: url("images/fondodemadera.jpg");
+}
+table{
+    width: 70vw;
+    height: 25vw;
+    margin: auto;
+    border-collapse: collapse;
+}
+th{
+    background-color: green;
+    font-weight:  bold;
+    height: 8vw;
+    font-size: 2.5vw;
+    vertical-align: text-top;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 3vw;
+}
+td{
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+td.black{
+    background-color: black;
+}
+td.teal{
+    background-color: teal;
+}
+td.blue{
+    background-color: blue;
+}
+td.navy{
+    background-color: navy;
+}
+td.lime{
+    background-color: lime;
+}
+td.white{
+    background-color: white;
+}
+td.purple{
+    background-color: purple;
+}
+td.yellow{
+    background-color: yellow;
+}
+td.olive{
+    background-color: olive;
+}
+td.red{
+    background-color: red;
+}
+td.gray{
+    background-color: gray;
+}
+td.fuchsia{
+    background-color: fuchsia;
+}
+td.green{
+    background-color: green;
+}
+li{
+    display: inline-block;
+}
+li.black{
+    color: black;
+}
+li.teal{
+    color: teal;
+}
+li.blue{
+    color: blue;
+}
+li.navy{
+    color: navy;
+}
+li.lime{
+    color: lime;
+}
+li.white{
+    color: white;
+}
+li.purple{
+    color: purple;
+}
+li.yellow{
+    color: yellow;
+}
+li.olive{
+    color: olive;
+}
+li.red{
+    color: red;
+}
+li.marron{
+    color: maroon;
+}
+li.gray{
+    color: gray;
+}
+li.fuchsia{
+    color: fuchsia;
+}
+li.green{
+    color: green;
+}
+li.aqua{
+    color: aqua
+}
+li.silver{
+    color: silver
+}
+li{
+    font-size: 3vw;
+    margin-left: 2vw;
+}
+ol{
+    width: 70vw;   
+    margin: auto;
+}
